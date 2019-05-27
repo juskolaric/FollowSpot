@@ -13,7 +13,7 @@ Changing colors of light and dimmer
 https://www.youtube.com/watch?v=a28WNJdy9XA&feature=youtu.be
 
 #### MIL algorithm - follow spot
-2 of 8 algorithm.
+2 of 8 algorithm.  
 https://www.youtube.com/watch?v=vazDwthb1nU&feature=youtu.be
 
 #### KCF algorithm - follow spot
